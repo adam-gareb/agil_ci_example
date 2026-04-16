@@ -25,3 +25,4 @@ npm run build
 ```
 npm run doc
 ```
+# agil_ci_example
